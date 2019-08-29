@@ -1,3 +1,0 @@
-# myproject
-newlineadded
-checkup
